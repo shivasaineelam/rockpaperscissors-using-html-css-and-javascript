@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    background-image: url(back.jpg); 
+    background-image: url(images/back.jpg); 
 }
 .choice:hover{
     cursor: pointer;
@@ -30,15 +30,15 @@ h1{
     border-radius: 50%;
 }
 #rock{
-    background-image: url(rock.jpg);
+    background-image: url(images/rock.jpg);
     background-size: cover;
 }
 #paper{
-    background-image: url(paper.jpg);
+    background-image: url(images/paper.jpg);
     background-size: cover;
 }
 #scissors{
-    background-image: url(scissors.jpg);
+    background-image: url(images/scissors.jpg);
     background-size: cover;
 }
 
